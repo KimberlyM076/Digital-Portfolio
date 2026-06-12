@@ -12,21 +12,9 @@ Student developer studying Level 3 BTEC Software Engineering & Development. I bu
 - JavaScript
 - Small Python / Java projects (see project descriptions in the site)
 
-## Run locally
-1. Open `index.html` in your browser, or run a local server:
-
-```powershell
-cd "C:\Users\kimbe\Downloads"
-python -m http.server 8000
-# then open http://localhost:8000/index.html
-```
-
-## Notes
-- Website is published using GitHub Pages from the `main` branch root.
-- To make it your user site (https://kimberlym076.github.io) rename the repo to `kimberlym076.github.io` in GitHub Settings → Repository name.
-- To use a custom domain, add the domain under Settings → Pages and update your DNS records.
-
 ## Contact
-Email: kimberlymatepo@gmail.com
+Email: kimberlymatepo@gmail.com 
+<br></br>
 GitHub: https://github.com/KimberlyM076
+<br></br>
 LinkedIn: https://linkedin.com/in/kimberly05
